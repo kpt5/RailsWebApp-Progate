@@ -1,0 +1,10 @@
+C:\Users\boi_3\Documents\学習\Ruby on Rails5\sys_bun>heroku create rails-progate
+Creating ⬢ rails-progate... !
+ !    Invalid credentials provided.
+ »   Warning: heroku update available from 7.29.0 to 7.30.1.
+heroku: Press any key to open up the browser to login or q to exit:
+Opening browser to https://cli-auth.heroku.com/auth/browser/61607e3f-c63e-4464-8d4b-1cf401522a02
+Logging in... done
+Logged in as kpt.555.b@gmail.com
+Creating ⬢ rails-progate... done
+https://rails-progate.herokuapp.com/ | https://git.heroku.com/rails-progate.git
