@@ -1,1 +1,1 @@
-# ProgrammerCollege
+# 【自主学習】Progateで制作した短文投稿サイト
