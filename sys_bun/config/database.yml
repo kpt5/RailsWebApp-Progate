@@ -24,6 +24,8 @@ production:
   <<: *default
   # 変更・追加
   # database: db/production.sqlite3
+  # 接続するデータベース
   adapter: postgresql
   encoding: unicode
+  # DBに接続できる上限の数
   pool: 5
