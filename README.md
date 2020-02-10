@@ -1,4 +1,4 @@
-# 【自主学習】Progateで制作した短文投稿サイト
+# 【自主学習@Progate】短文投稿サイト
 　 https://rails-progate.herokuapp.com/
   
 <br>　・アカウント登録・編集・ログイン認証
